@@ -7,7 +7,7 @@ $ mkdir fosscafe
 $ cd fosscafe
 $ git clone https://github.com/ansible/ansible.git
 $ cd ansible
-$ git module update --init
+$ git submodule update --init
 $ . hacking/env-setup
 
 $ bin/ansible --version
