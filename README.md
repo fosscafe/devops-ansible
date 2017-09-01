@@ -1,6 +1,10 @@
 # Ansible Installation
 
-### How to setup Ansible on your GNU/Linux system
+Thanks for taking out time to read the fosscafe README. 
+
+We outline the steps required to install and setup Ansible on your platform.
+
+### On your GNU/Linux system
 ```
 $ cd $HOME
 $ mkdir fosscafe
@@ -22,12 +26,13 @@ ansible 2.4.0 (devel 737c27121b) last updated 2017/09/01 22:22:13 (GMT +550)
 
 $
 ```
-### On Windows system
+
+### On your Windows system
 
 Please follow these steps:
 * install vagrant or virtualbox or hyper-v
 * install a Linux distro of your choice (we recommend Arch Linux, Alpine Linux or Gentoo Linux)
-* Follow the steps outlined in section above titled 'Ansible on GNU/Linux' system
+* Follow the steps outlined in section above titled 'On GNU/Linux' system
 
 
 ### Support
