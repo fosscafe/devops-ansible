@@ -1,0 +1,31 @@
+# libraries implementing YAML
+
+---
+perl:
+    - perl-yaml 
+                version : 1.23-3 
+                status  : installed
+    - perl-yaml-syck 
+                version : 1.30-4 
+                status  : installed
+    - perl-yaml-libyaml 
+                version : 0.64-4
+    - perl-yaml-tiny 
+                version : 1.70-3
+    - perl-test-yaml 
+                version : 1.06-3
+
+python:
+    - python-ruamel-yaml 
+                version : 0.15.33-1 
+                status  : installed
+    - python-yaml 
+                version : 3.12-2 
+                status  : installed
+
+cplusplus:
+    - yaml-cpp 
+                version : 0.5.3-3 
+                status  : installed
+...
+
