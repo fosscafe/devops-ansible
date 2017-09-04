@@ -1,0 +1,7 @@
+event:
+  - {{ group }}
+  - {{ topic }}
+  - {{ date  }}
+  - {{ time  }}
+  - {{ venue }}
+

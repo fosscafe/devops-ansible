@@ -1,0 +1,6 @@
+[localhost]
+127.0.0.1
+
+[webservers]
+10.10.10.4
+
