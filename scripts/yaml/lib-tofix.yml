@@ -2,7 +2,7 @@
 
 ---
 perl:
-    - perl-yaml 
+    - perl-yaml :
                 version : 1.23-3 
                 status  : installed
     - perl-yaml-syck 

@@ -2,7 +2,7 @@
 
 import yaml
 
-filename = 'lib.yml'
+filename = 'lib-tofix.yml'
 
 with open (filename, "r") as stream:
 	try:
